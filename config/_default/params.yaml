@@ -1,0 +1,72 @@
+############################
+## Author
+############################
+
+author:
+  name: ""
+  image: author.jpeg
+  greeting: "Add an edge to the graph revolution ✊🏽"
+  #icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - scholar: https://scholar.google.com/citations?user=VJ0n2gQAAAAJ&hl
+  - github: https://github.com/diningphil
+  # - facebook: https://github.com/chrede88/qubt
+  - x-twitter: https://x.com/federico_errica
+  # - mastodon:
+  - linkedin: https://www.linkedin.com/in/federicoerrica/
+  # - instagram:
+  # - reddit:
+  - telegram: https://t.me/diningphil
+  # - whatsapp:
+  # - signal:
+  # - codepen:
+  # - dev:
+  - email: federico.errica@neclab.eu
+  # - website:
+  # - link:
+  # - discord:
+  # - orcid:
+  # - slack:
+  # - stack-overflow:
+  # - twitch:
+  # - patreon:
+  # - soundcloud:
+  # - dribbble:
+  # - stack-exchange:
+  # - tiktok:
+  # - youtube:
+  # - keybase:
+  # - flickr:
+  # - tumblr:
+  # - kickstarter:
+  # - snapchat:
+  # - bluesky:
+  # - bitbucket:
+  # - bandcamp:
+  # - etsy:
+  # - spotify:
+  # - pinterest:
+  # - strava:
+  # - untappd:
+  # - skype:
+  # - medium:
+  # - foursquare:
+  # - apple:
+  # - amazon:
+  # - google:
+  # - paypal:
+  # - windows:
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "Federico Errica"
+description: "Senior Research Scientist"
+images:
+  - thumbnail.jpeg

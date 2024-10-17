@@ -1,0 +1,14 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: 'https://diningphil.github.io/qubt'
+title: 'Federico Errica (he/him)'
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
