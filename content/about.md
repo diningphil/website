@@ -3,7 +3,7 @@
 type: misc
 
 # change these
-jobTitle: Add an edge to the graph revolution ✊🏽
+jobTitle: Add an edge to the graph revolution
 name:
 bio: true
 #icon: ":coffee:"
