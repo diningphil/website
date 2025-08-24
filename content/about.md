@@ -22,3 +22,11 @@ How are we influenced by processes and people around us?
 Ultimately, why we become who we are?
 
 If you'd like to chat about it, either philosophically or more concretely, press one of the buttons above. See you soon =)
+
+### Notes on Reparametrization trick
+
+[Link to Overleaf](https://www.overleaf.com/read/srbgxxttkqyy#9faef5)
+
+### Notes on t-SNE derivation
+
+[Link to Overleaf](https://www.overleaf.com/read/mcydzpgpmqpw#ef8db8)
